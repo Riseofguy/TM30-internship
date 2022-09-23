@@ -1,0 +1,92 @@
+<div class="head">Employee</div>
+                <div class="head">Last login</div>
+                <div class="head">Department</div>
+                <div class="head">Status</div>
+                <div class="user avatar">
+                   <figure class="img-1"><img src="./img/man1.jpeg" alt="" class="profile-pic" width="40" height="40" ></figure>
+                   <div>
+                    <h2 class="data">Logan Henderson</h2>
+                    <p><a href = "mailto: logan@company.com">logan@company.com</a></p>
+                   </div>
+                </div>
+                <div class="user">
+                    <h2 class="data">September 20, 2019</h2>
+                    <p>2 days ago</p>
+                </div>
+                <div class="user data">Accounting</div>
+                <div class="user activity">
+                    <h2>Active</h2>
+                    <p><i class="material-icons">&#xe5cf;</i></p>
+                </div>
+                <div class="user avatar">
+                    <figure class="img-1"><img src="./img/man4.jpg" alt="" class="profile-pic" width="40" height="40" ></figure>
+                  <div>
+                    <h2 class="data">Susie Carlson</h2>
+                    <p><a href = "mailto: susie@company.com">susie@company.com</a></p>
+                  </div>
+                </div>
+                <div class="user">
+                    <h2 class="data">September 22, 2019</h2>
+                    <p>5 hours ago</p>
+                </div>
+                <div class="user data">Development</div>
+                <div class="user activity">
+                    <h2>inactive</h2>
+                    <p><i class="material-icons">&#xe5cf;</i></p>
+                </div>
+                <div class="user avatar">
+                    <figure class="img-1"><img src="./img/man2.jpg" alt="" class="profile-pic" width="40" height="40" ></figure>
+                 <div>
+                    <h2 class="data">Markus Benes</h2>
+                    <p><a href = "mailto: markus@company.com">markus@company.com</a></p>
+                 </div>
+                </div>
+                <div class="user">
+                    <h2 class="data">September 18, 2019</h2>
+                    <p>4 days ago</p>
+                </div>
+                <div class="user data">Development</div>
+                <div class="user activity">
+                    <h2>Active</h2>
+                    <p><i class="material-icons">&#xe5cf;</i></p>
+                </div>
+                <div class="user avatar">
+                    <figure class="img-1"><img src="./img/man5.jpg" alt="" class="profile-pic" width="40" height="40" ></figure>
+                 <div>
+                    <h2 class="data">Marie Stephens</h2>
+                    <p><a href = "mailto: marie@company.com">marie@company.com</a></p>
+                 </div>
+                </div>
+                <div class="user">
+                    <h2 class="data">September 20, 2019</h2>
+                    <p>2 days ago</p>
+                </div>
+                <div class="user data">Human Resources</div>
+                <div class="user activity">
+                    <h2>Active</h2>
+                    <p><i class="material-icons">&#xe5cf;</i></p>
+                </div>
+                <div class="user avatar">
+                    <figure class="img-1"><img src="./img/man3.jpeg" alt="" class="profile-pic" width="40" height="40" ></figure>
+                 <div>
+                    <h2 class="data">Jacob Gibson</h2>
+                    <p><a href = "mailto: jacob@company.com">jacob@company.com</a></p>
+                 </div>
+                </div>
+                <div class="user">
+                    <h2>September 22, 2019</h2>
+                    <p>3 hours ago</p>
+                </div>
+                <div class="user">Sales</div>
+                <div class="user activity">
+                    <h2>Active</h2>
+                    <p><i class="material-icons">&#xe5cf;</i></p>
+                </div>
+
+            </ul>
+        </div>
+     </div>
+    </div>
+</div>
+</body>
+</html>
